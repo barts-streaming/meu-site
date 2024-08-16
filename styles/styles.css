@@ -3,7 +3,17 @@ body{
     background-color: black;
     font-family: arial, helvetica, sans-serif
 }
-
+h2{color: rgb(0, 0, 0);
+font-size: 200%;
+}
+figcaption{
+    letter-spacing: 4rcap;
+    color: rgb(103, 6, 128);
+    font-size: xx-large;
+    font-style: oblique;
+    text-decoration-line: underline;
+    background-color: rgb(154, 189, 0);
+}
 ul{
     display: flex;
     justify-content: space-between;
@@ -21,7 +31,8 @@ a{
     text-align: center;
 }
 h1{
-    color: yellow;
+    color: rgb(145, 8, 126);
+    font-size: xx-large;
 }
 footer{
     text-decoration-color: red ;
@@ -43,6 +54,6 @@ footer{
 
 }
 #body{
-    opacity: 1;
     background-image: url(https://barts-streaming.github.io/meu-site/assets/IMG-20240508-WA0002.jpg);
+  
 } 
