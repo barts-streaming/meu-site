@@ -56,12 +56,8 @@ footer{
     background-color: crimson;
 
 }
-#body{
-    background-image: url(https://barts-streaming.github.io/meu-site/assets/IMG-20240508-WA0002.jpg);
-  width: auto;
-  height: auto;
+
   
-} 
 #img1:hover{
     background-color: brown;
 }
